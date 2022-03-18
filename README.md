@@ -4,5 +4,4 @@
 2. Your website should have cards showing your different works and links to those.
 3. Also, try to push something everyday to make your github dashboard show some hardwork as it will be helpful in the near future.
 
-My Portfolio website.
 #Portfolio live link https://expolearn.github.io/tshivhinda.github.io/index.html
