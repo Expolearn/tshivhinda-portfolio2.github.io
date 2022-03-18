@@ -1,4 +1,4 @@
-# tshivhinda.github.io
+# Tshivhinda.github.io
 #Assignment for you.
 1. Develop your website from scratch using a javascript framework (React or Angular) and deploy it to https://www.netlify.com/ and share it with me.
 2. Your website should have cards showing your different works and links to those.
