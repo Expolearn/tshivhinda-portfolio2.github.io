@@ -1,3 +1,3 @@
-# tshivhinda-portfolio2.github.io
+# tshivhinda.github.io
 My Portfolio website.
-View it at: https://expolearn.github.io/tshivhinda-portfolio2.github.io/index.html
+View it at: https://expolearn.github.io/tshivhinda.github.io/index.html
